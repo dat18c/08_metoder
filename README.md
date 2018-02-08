@@ -17,4 +17,5 @@ School exercise
 - main metode i f.eks. skoleprogram hvor studerende og lærer erklæres og udskrives
 
 
-evt. Angry Birds, hvis I har arbejdet videre med den
+evt. Angry Birds/Backgammon, hvis I har arbejdet videre med dem
+
