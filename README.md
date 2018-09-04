@@ -1,21 +1,22 @@
 # 06_metoder
 
 ## Agenda
+Opsamling BMI-beregner, Bibliotek, Geometri-opgave
+
 Repetition af klasser og objekter
 
-Metoder - intro til metoder uden returparametre
+Scope & indkapsling - private & public
 
-Udvidelse af Hundekennel med infometode
+Konstruktører og set metoder
 
-## Øvelse
-Udvidelse af Car Broker med metoder
+### Øvelse Udvidelse af Car Broker med set metoder
 
 Lav metode til udskrift af info på Car objekter
+Gør felterne/variablene i Car private (indkapsling)
+Lav set metoder på Car objekter
+Lav konstruktør på Car objekter
 
-School exercise
-- lav klasser for Student og Teacher
-- main metode i f.eks. skoleprogram hvor studerende og lærer erklæres og udskrives
-
-
-evt. Angry Birds/Backgammon, hvis I har arbejdet videre med dem
-
+### Øvelse set metoder på bilioteket
+Tilføj set metoder på biblioteket
+Gør felter private
+Lav info/udskriv metode på klasserne
