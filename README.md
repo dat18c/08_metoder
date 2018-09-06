@@ -1,4 +1,4 @@
-# 06_metoder
+# 08 Metoder
 
 ## Agenda
 Opsamling BMI-beregner, Bibliotek, Geometri-opgave
