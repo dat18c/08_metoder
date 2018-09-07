@@ -2,20 +2,48 @@ public class Hund
 {
    
    //private felter
-   String navn = "";
-   String farve = "";
-   int alder = 0;
-   double vaegt = 10.0;
+   private String navn = "";
+   private String farve = "";
+   private int alder = 0;
+   private double vaegt = 10.0;
    
    //konstruktør
    
+   //set metoder - Mutators
+   public void setNavn(String name)
+   {
+      navn = name;
+   }
+   public void setFarve(String color)
+   {
+      farve = color;
+   }
+   
+   public void setAlder(int age)
+   {
+      alder = age;
+   }
+   
+   public void setVaegt(double weigth)
+   {
+      vaegt = weigth;
+   }
+   //set metode med alle parametre
+   public void setHund(String name, 
+                        String color, int age, double weight)
+   {
+      navn = name;
+      farve = color;
+      alder = age;
+      vaegt = weight;
+   }
    
    //metode til udskrift af hunde
    public void hundeInfo(){
       System.out.println("Navn:\t\t" + navn);
       System.out.println("Farve:\t" + farve);
       System.out.println("Alder:\t" + alder + " år");
-      System.out.println("Vaegt:\t" + vaegt + " kg\n");
+      System.out.println("Vægt:\t\t" + vaegt + " kg\n");
    }
    
 }
