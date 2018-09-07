@@ -7,6 +7,7 @@ public class Geometri
       firkant1.a = 2;
       firkant1.b = 2;
       firkant1.areal();
+      firkant1.udskriv();
    }
 
 }
