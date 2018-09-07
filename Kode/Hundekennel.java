@@ -12,9 +12,9 @@ public class Hundekennel
       hund1.navn = "Pluto";
       hund1.alder = 10;
       hund1.vaegt = 25;
-      hund1.farve = "Blå og gul";
+      hund1.farve = "Orange";
       
-      hund2.navn = "Jerry";
+      hund2.navn = "Fido";
       hund2.alder = 2;
       hund2.vaegt = 2.5;
       hund2.farve = "grå";
